@@ -1,113 +1,71 @@
 # Privacy Policy / Gizlilik Politikası
 
-Last updated / Son güncelleme: March 19, 2024
+Last Updated: March 19, 2024
 
 ## English Version
 
-### Introduction
+### 1. Introduction
+This Privacy Policy describes how we collect, use, and handle your information when you use our Dice Game application.
 
-This Privacy Policy describes how Dice Game ("we", "our", or "the app") protects the privacy of its users. By using this application, you agree to the collection and use of information as described in this policy.
+### 2. Information We Collect
+- **Automatically Collected Information**: Device information, app usage statistics
+- **User-Provided Information**: None required
 
-### Information We Collect
-
-#### Automatically Collected Information
-- Device information (model, operating system version)
-- App usage statistics
-- Error reports
-
-#### Information Provided by Users
-- Game scores
-- Game preferences
-
-### How We Use Information
-
-We use the collected information for the following purposes:
-- To provide app functionality
+### 3. How We Use Information
+- To provide and maintain the application
 - To improve user experience
-- To detect and fix errors
 - To analyze app performance
 
-### Information Sharing
+### 4. Information Sharing
+We do not share your personal information with third parties.
 
-We do not share your information with third parties. Your information may only be shared when:
-- Required by law
-- Necessary to protect the app's security
-- With your consent
+### 5. Data Security
+We implement appropriate security measures to protect your information.
 
-### Data Security
+### 6. Children's Privacy
+Our application is suitable for all ages.
 
-We take reasonable measures to protect your data. However, please note that no data transmission over the internet or electronic storage is 100% secure.
+### 7. Changes to This Policy
+We may update this policy from time to time. We will notify you of any changes by posting the new policy on this page.
 
-### Children's Privacy
-
-Our app is not directed at children under 13. We do not knowingly collect personal information from children under 13.
-
-### Changes
-
-We may update this privacy policy from time to time. We will notify you of any significant changes through the app.
-
-### Contact
-
-If you have questions about this privacy policy, please contact us:
+### 8. Contact Us
+If you have any questions about this policy, please contact us at:
 - Email: umit206403@gmail.com
 
-### Consent
-
-By using this app, you consent to this privacy policy. If you do not agree with this policy, please do not use the app.
+### 9. Consent
+By using our application, you consent to this privacy policy.
 
 ---
 
 ## Türkçe Versiyon
 
-### Giriş
+### 1. Giriş
+Bu Gizlilik Politikası, Zar Oyunu uygulamamızı kullanırken bilgilerinizi nasıl topladığımızı, kullandığımızı ve işlediğimizi açıklar.
 
-Bu Gizlilik Politikası, Dice Game uygulamasının ("biz", "bizim" veya "uygulama") kullanıcılarının gizliliğini nasıl koruduğunu açıklar. Bu uygulamayı kullanarak, bu politikada belirtilen bilgilerin toplanmasını ve kullanılmasını kabul etmiş olursunuz.
+### 2. Topladığımız Bilgiler
+- **Otomatik Toplanan Bilgiler**: Cihaz bilgileri, uygulama kullanım istatistikleri
+- **Kullanıcı Tarafından Sağlanan Bilgiler**: Gerekli değil
 
-### Toplanan Bilgiler
+### 3. Bilgileri Nasıl Kullanıyoruz
+- Uygulamayı sağlamak ve sürdürmek için
+- Kullanıcı deneyimini iyileştirmek için
+- Uygulama performansını analiz etmek için
 
-#### Otomatik Olarak Toplanan Bilgiler
-- Cihaz bilgileri (model, işletim sistemi versiyonu)
-- Uygulama kullanım istatistikleri
-- Hata raporları
+### 4. Bilgi Paylaşımı
+Kişisel bilgilerinizi üçüncü taraflarla paylaşmıyoruz.
 
-#### Kullanıcı Tarafından Sağlanan Bilgiler
-- Oyun skorları
-- Oyun tercihleri
+### 5. Veri Güvenliği
+Bilgilerinizi korumak için uygun güvenlik önlemlerini uyguluyoruz.
 
-### Bilgilerin Kullanımı
+### 6. Çocukların Gizliliği
+Uygulamamız tüm yaşlar için uygundur.
 
-Topladığımız bilgileri aşağıdaki amaçlar için kullanıyoruz:
-- Uygulamanın işlevselliğini sağlamak
-- Kullanıcı deneyimini iyileştirmek
-- Hataları tespit etmek ve düzeltmek
-- Uygulama performansını analiz etmek
+### 7. Bu Politikadaki Değişiklikler
+Bu politikayı zaman zaman güncelleyebiliriz. Herhangi bir değişiklik olduğunda yeni politikayı bu sayfada yayınlayarak sizi bilgilendireceğiz.
 
-### Bilgi Paylaşımı
-
-Kullanıcı bilgilerinizi üçüncü taraflarla paylaşmıyoruz. Bilgileriniz sadece:
-- Yasal bir zorunluluk olduğunda
-- Uygulamanın güvenliğini korumak için gerekli olduğunda
-- Kullanıcı izni verildiğinde
-
-paylaşılabilir.
-
-### Veri Güvenliği
-
-Kullanıcı verilerinizin güvenliğini sağlamak için makul önlemler alıyoruz. Ancak, internet üzerinden hiçbir veri iletiminin veya elektronik depolamanın %100 güvenli olmadığını unutmayın.
-
-### Çocukların Gizliliği
-
-Uygulamamız 13 yaşın altındaki çocuklara yönelik değildir. Bilerek 13 yaşın altındaki çocuklardan kişisel bilgi toplamıyoruz.
-
-### Değişiklikler
-
-Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler olduğunda, uygulama içinde bir bildirim yayınlayacağız.
-
-### İletişim
-
-Bu gizlilik politikası hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
+### 8. Bize Ulaşın
+Bu politika hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
 - E-posta: umit206403@gmail.com
 
-### Onay
-
-Bu uygulamayı kullanarak, bu gizlilik politikasını kabul etmiş olursunuz. Eğer bu politikayı kabul etmiyorsanız, lütfen uygulamayı kullanmayın. 
+### 9. Onay
+Uygulamamızı kullanarak bu gizlilik politikasını kabul etmiş olursunuz. 
